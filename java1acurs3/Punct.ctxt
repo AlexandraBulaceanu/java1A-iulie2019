@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Punct
+comment1.params=x\ y
+comment1.target=Punct(int,\ int)
+comment2.params=p
+comment2.target=double\ getDistance(Punct)
+comment3.params=
+comment3.target=void\ afisareZ()
+numComments=4
