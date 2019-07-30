@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=nume
+comment2.target=void\ setNume(java.lang.String)
+comment3.params=
+comment3.target=int\ getVarsta()
+comment4.params=varsta
+comment4.target=void\ setVarsta(int)
+comment5.params=
+comment5.target=boolean\ isAlive()
+comment6.params=alive
+comment6.target=void\ setAlive(boolean)
+numComments=7
